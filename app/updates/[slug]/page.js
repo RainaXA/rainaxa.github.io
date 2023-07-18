@@ -35,13 +35,13 @@ export default function PostPage(props) {
         <main>
             <div className="bg-center bg-no-repeat bg-[url('/jumbotron.webp')] bg-gray-700 bg-blend-multiply">
                 <div className="sm:px-40 px-10 max-w-screen-xl text-left py-24 lg:py-10 space-y-3">
-                    <h1 className="font-medium text-4xl">{post.data.title}</h1>
+                    <h1 className="font-light text-4xl">{post.data.title}</h1>
                     <span className="text-sm">{post.data.author} | {DateFormatter(post.data.date)}</span>
                     <h2 className="font-light text-lg">{post.data.description}</h2>
                 </div>
             </div>
             <div className="md:px-80 px-20 mx-auto p-6 bg-zinc-800">
-                <article className="prose lg-prose-xl prose-invert prose-headings:font-medium">
+                <article className="prose lg-prose-xl prose-invert prose-headings:font-light">
                     <Markdown>{post.content}</Markdown>
                 </article>
             </div>

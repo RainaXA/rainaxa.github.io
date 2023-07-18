@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 
 export const metadata = {
     title: 'Updates',
-    description: 'Follow the latest updates from the Government of The Federal Democracy of Solstice',
+    description: 'Follow the latest updates from the Federal Democracy of Solstice',
 }
 
 export default function Updates() {
