@@ -3,8 +3,8 @@ import PostPreview from "@/components/updates/PostPreview";
 import Link from "next/link";
 
 export const metadata = {
-    title: 'Home - Government of The Federal Democracy of Solstice',
-    description: 'The official website of the Government of The Federal Democracy of Solstice',
+    title: 'Home - The Federal Democracy of Solstice',
+    description: 'The official website of the Federal Democracy of Solstice',
 }
 export default function Home() {
     const postMetadata = getPostMetadata();

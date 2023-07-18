@@ -9,8 +9,8 @@ const Navbar = () => {
       <nav className="border-gray-200 bg-neutral-900">
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
               <div className="flex items-center">
-                  <Image src="/alure_flag.svg" className="mr-5" alt="Alure Flag" width={70} height={70}/>
-                  <span className="self-center text-2xl font-medium whitespace-nowrap dark:text-white"><p>Government</p><p>of the Federal Democracy of Solstice</p></span>
+                  <Image src="/solstan_flag.svg" className="mr-5" alt="FDS Flag" width={70} height={70}/>
+                  <span className="self-center text-2xl font-medium whitespace-nowrap dark:text-white"><p>of The Federal Democracy of Solstice</p></span>
               </div>
               <button data-collapse-toggle="navbar-default" type="button"
                       className="transition duration-150 ease-out hover:ease-in inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-zinc-600 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"

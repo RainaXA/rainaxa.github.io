@@ -7,10 +7,10 @@ const montserrat = Montserrat({ subsets: ['latin'] })
 
 export const metadata = {
   title: {
-      template: '%s - Government of the Federal Democracy of Solstice',
-      default: 'Government of the Federal Democracy of Solstice'
+      template: '%s - The Federal Democracy of Solstice',
+      default: 'The Federal Democracy of Solstice'
   },
-  description: 'The official website of the Government of the Federal Democracy of Solstice',
+  description: 'The official website of the Federal Democracy of Solstice',
 }
 
 export default function RootLayout({ children }) {
