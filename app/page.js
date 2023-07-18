@@ -16,7 +16,7 @@ export default function Home() {
         <div className="bg-center bg-no-repeat bg-[url('/jumbotron.webp')] bg-gray-500 bg-blend-multiply">
             <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56 space-y-3">
                 <h1 className="font-medium md:text-5xl text-4xl">Welcome to the Federal Democracy of Solstice</h1>
-                <h2 className="font-light md:text-3xl text-xl">The official website of the Government of the Federal Democracy of Solstice</h2>
+                <h2 className="font-light md:text-3xl text-xl">The official website of the Federal Democracy of Solstice</h2>
             </div>
         </div>
             <ul>
