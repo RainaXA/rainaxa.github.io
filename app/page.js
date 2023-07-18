@@ -30,7 +30,7 @@ export default function Home() {
                     </div>
                 </li>
                 <li>
-                    <div className="bg-center bg-no-repeat bg-[url('/regions/breadcroust.webp')] bg-gray-600 bg-blend-multiply">
+                    <div className="bg-center bg-no-repeat bg-[url('/provinces/szkilanes.webp')] bg-gray-600 bg-blend-multiply">
                         <div className="sm:px-40 px-10 py-14 space-y-2">
                             <h1 className="font-light sm:text-5xl text-3xl">Szki Lanes</h1>
                             <span>Premier: Raina</span>
