@@ -1,0 +1,197 @@
+{
+    "countries": [
+        {
+            "name": "Alure Regions",
+            "danger": 0,
+            "image": "/countries/alureregions.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Anatoli",
+            "danger": 0,
+            "image": "/countries/anatoli.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Auckland",
+            "danger": 0,
+            "image": "/countries/auckland.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Aura Regions",
+            "danger": 0,
+            "image": "/countries/auraregions.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Birch Boat Town",
+            "danger": 0,
+            "image": "/countries/birchboattown.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Birch Lodges Community Town",
+            "danger": 0,
+            "image": "/countries/birchlodges.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Country Warp",
+            "danger": 0,
+            "image": "/countries/countrywarp.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Eagle City",
+            "danger": 0,
+            "image": "/countries/eaglecity.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Fegal",
+            "danger": 3,
+            "image": "/countries/fegal.webp",
+            "settlements": [],
+            "history": [
+                "May 17th, 2023: Fegal has border security issues and it has not been solved as of now."
+            ]
+        },
+        {
+            "name": "Halcandra",
+            "danger": 0,
+            "image": "/countries/halcandra.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Inkytown",
+            "danger": 0,
+            "image": "/countries/inkytown.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Kemonomimi Republic",
+            "danger": 0,
+            "image": "/countries/kemonomimi.webp",
+            "settlements": [],
+            "history": [
+                "July 15th, 2023: KR has internal power issues between the President and Govenor. Governor was trying to form a new government under \"KSSR\"."
+            ]
+        },
+        {
+            "name": "Knowle Regions",
+            "danger": 0,
+            "image": "/countries/knowleregions.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Lion Land",
+            "danger": 0,
+            "image": "/countries/lionland.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Mart's Extraordinarily Sublime State",
+            "danger": 0,
+            "image": "/countries/mess.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Mojave",
+            "danger": 0,
+            "image": "/countries/mojave.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Open Republic",
+            "danger": 0,
+            "image": "/countries/openrepublic.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "PLC",
+            "danger": 0,
+            "image": "/countries/plc.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Plutonia Imperium",
+            "danger": 0,
+            "image": "/countries/plutoniaimperium.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Southeastern Islands",
+            "danger": 0,
+            "image": "/countries/sei.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Sulópolis",
+            "danger": 0,
+            "image": "/countries/sulopolis.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "TAY",
+            "danger": 0,
+            "image": "/countries/tay.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Union of Soviet Sovereign Republics",
+            "danger": 0,
+            "image": "/countries/ussr.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "Veronian Controlled Territories",
+            "danger": 0,
+            "image": "/countries/vct.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "The Republic of Whale City",
+            "danger": 0,
+            "image": "/countries/whalecity.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "The Federation of Yavno",
+            "danger": 0,
+            "image": "/countries/yavno.webp",
+            "settlements": [],
+            "history": []
+        },
+        {
+            "name": "The Republic of You on Kazoo",
+            "danger": 0,
+            "image": "/countries/youonkazoo.webp",
+            "settlements": [],
+            "history": []
+        }
+    ]
+}

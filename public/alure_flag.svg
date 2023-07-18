@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="211.211mm"
+   height="105.605mm"
+   viewBox="0 0 211.211 105.605"
+   version="1.1"
+   id="svg342"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="sei_flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview344"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33896955"
+     inkscape:cx="541.34655"
+     inkscape:cy="653.45102"
+     inkscape:window-width="1333"
+     inkscape:window-height="928"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs339" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#006604;stroke-width:4.62448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13508"
+       width="100.98102"
+       height="206.58652"
+       x="2.3122399"
+       y="-208.89876"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:4.3203;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13756"
+       width="201.93918"
+       height="12.663021"
+       x="4.650104"
+       y="46.471218" />
+    <rect
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:4.92458;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13964"
+       width="96.361511"
+       height="12.663099"
+       x="4.6259756"
+       y="-111.93714"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#4db2ff;fill-opacity:1;stroke:none;stroke-width:5.3683"
+       id="rect1469"
+       width="8.9559889"
+       height="222.76393"
+       x="-8.5152035"
+       y="5.8591862"
+       transform="matrix(0.38292131,-0.92378096,0.90933235,0.41607052,0,0)" />
+    <rect
+       style="fill:#4db2ff;fill-opacity:1;stroke:none;stroke-width:5.40211"
+       id="rect2146"
+       width="9.0114565"
+       height="224.19124"
+       x="-8.5621338"
+       y="5.8795133"
+       transform="matrix(0.38302341,-0.92373864,0.90938152,0.41596304,0,0)" />
+    <rect
+       style="fill:#4db2ff;fill-opacity:1;stroke:none;stroke-width:5.40211"
+       id="rect2148"
+       width="9.0114565"
+       height="224.19124"
+       x="87.567619"
+       y="-34.609497"
+       transform="matrix(0.38302341,0.92373864,0.90938152,-0.41596304,0,0)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#006604;stroke-width:4.62448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3470"
+       width="100.98102"
+       height="206.58652"
+       x="2.3122399"
+       y="-208.89876"
+       transform="rotate(90)"
+       inkscape:export-filename="sei_flag.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
